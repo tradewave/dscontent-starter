@@ -1,7 +1,7 @@
 Overview
 -----------------
 
-Starter content for [Dataquest](www.dataquest.io).
+Starter content for [Dataquest](http://www.dataquest.io/).
 
 How to use
 -----------------
